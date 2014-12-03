@@ -1,4 +1,9 @@
-om-hi-shoppie
-=============
+hiShoppie
+www.hishoppie.com
+=======================
 
-An interactive shopping site
+Introduction
+------------
+A world on interactive shopping  We provide an friendly Interaction between buyer and seller.
+
+
